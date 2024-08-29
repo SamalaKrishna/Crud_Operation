@@ -1,0 +1,39 @@
+{
+  "api": [
+    {
+      "id": "3",
+      "name": "sai",
+      "age": "24",
+      "email": "krishna23@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "krishna",
+      "age": "24",
+      "email": "krishna18@gmail.com"
+    },
+    {
+      "id": "5ef6",
+      "name": [
+        "hello"
+      ],
+      "email": "sai@gmail.co"
+    },
+    {
+      "id": "1f85",
+      "name": "mahesh",
+      "email": [
+        "dinga@email.com"
+      ]
+    },
+    {
+      "id": "23be",
+      "name": [
+        "helo"
+      ],
+      "email": [
+        "hi@gmail.com"
+      ]
+    }
+  ]
+}
